@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fons salutis, or, The fountain of health opened in the wonderful efficacy and almost incredible virtue of true oyl, which is made of sulphur vive, set on fire and called commonly, oyl of sulphur per campanam / faithfully collected out of the writings of the most excelling philosopher and unparalel'd physitian of this last age, John Baptist Van Helmont, lately deceased, and confirmed by the experience of Thomas Moulson ...</title>
+            <author>Helmont, Jean Baptiste van, 1577-1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43286</idno>
+            <idno type="STC">Wing H1399</idno>
+            <idno type="STC">ESTC R15958</idno>
+            <idno type="EEBO-CITATION">12159448</idno>
+            <idno type="OCLC">ocm 12159448</idno>
+            <idno type="VID">55253</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55253)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 103:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fons salutis, or, The fountain of health opened in the wonderful efficacy and almost incredible virtue of true oyl, which is made of sulphur vive, set on fire and called commonly, oyl of sulphur per campanam / faithfully collected out of the writings of the most excelling philosopher and unparalel'd physitian of this last age, John Baptist Van Helmont, lately deceased, and confirmed by the experience of Thomas Moulson ...</title>
+                  <author>Helmont, Jean Baptiste van, 1577-1644.</author>
+                  <author>Moulson, Thomas.</author>
+               </titleStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Coe, and are to be sold at Thomas Moulson's house ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sulphur --  Therapeutic use --  Early works to 1800.</term>
+               <term>Liquid sulphur.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55253:1" rendition="simple:additions"/>
+            <pb facs="tcp:55253:1"/>
+            <p>
+               <hi>FONS SALUTIS,</hi> OR THE Fountain of Health OPENED: In the Wonderful Efficacy, and almoſt incredible Virtue of true Oyl, which is made of <hi>Sulphur Vive,</hi> ſet on fire, and called commonly, <hi>Oyl of Sulphur</hi> per Campanam.</p>
+            <p>Faithfully Collected out of the writings of the moſt excelling Philoſopher, and unparalel'd Phyſitian of this laſt age, <hi>John Baptiſt Van Helmont,</hi> lately de<g ref="char:EOLhyphen"/>ceaſed; and confirmed by the experience of</p>
+            <p>
+               <hi>Thomas Moulſon,</hi> Operator in Chymiſtry. and <hi>Med. Lond.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Andrew Coe,</hi> and are to be ſold at <hi>Thomas Moulſon's</hi> Houſe, in <hi>Tenter Ally</hi> in <hi>Little Moor-Fields,</hi> at the ſigne of the <hi>Golden Key.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:55253:2"/>
+            <pb facs="tcp:55253:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>TO</hi> let you know I have not ſpent all my dayes in <hi>ſpeculative notions</hi> only, I have appeared in this Publication to have ſome practical experi<g ref="char:EOLhyphen"/>ence alſo; yet this is neither <hi>Inducement,</hi> nor is there any Obligation as I am <hi>cautious</hi> of lies upon me to enforce it, but only one; and that is, <hi>pura lex Charitatis;</hi> the undefiled Law of Love, as one Chriſtian, and every one ought to exerciſe towards another, in aſſiſting one another in every gradual motion, tending to the benefit one of another; and as one Tree yeelds not all kinds of fruit, but every one ſeveral, gratefully yeelding the more various contentment applicable to every uſe; ſo by the Di<g ref="char:EOLhyphen"/>vine Providence, my Talent being beſtowed on me this way, leſt I ſhould hide it in a Napkin, and incur the deſerved ſentence of the barren Figg-Tree, I freely make it Communicable to the good and ſalubrity of all, and ſhall always be ſtudious there<g ref="char:EOLhyphen"/>of, while I am,</p>
+            <closer>
+               <signed>Thomas Moulſon.</signed>
+               <dateline>
+                  <hi>From the</hi> Golden Key <hi>in</hi> Tenter-Alley, <hi>in Lit<g ref="char:EOLhyphen"/>tle Morefields.</hi> 
+                  <date>
+                     <hi>July 20th, 1665.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55253:3"/>
+            <pb n="1" facs="tcp:55253:3"/>
+            <head>FONS SALUTIS.</head>
+            <argument>
+               <p>
+                  <hi>The Wonderful efficacy, and almoſt incredible Vir<g ref="char:EOLhyphen"/>tue of true Oyl which is made of</hi> Sulphur Vive, <hi>ſet on fire and called commonly Oyl of Sulphur</hi> per Campanam.</p>
+               <p>
+                  <hi>Of this moſt noble</hi> Liquor, <hi>and not vulgar Medi<g ref="char:EOLhyphen"/>cine, the excelling</hi> Philoſopher Helmont <hi>writeth thus in his Excellent Diſcourſe concerning the Tree of Life.</hi>
+               </p>
+            </argument>
+            <p>IN the year 1600 a certain man belonging to the <hi>Camp,</hi> whoſe office was to keep account of the proviſion of <hi>Victuals,</hi> which was made for the Army, being charged with a numerous Family of ſmall Children, unable to ſhift for themſelves, himſelf being then 58 years of age, was very ſenſible of the great care and burden which lay upon him to provide for them while he lived, and concluded that ſhould he dye, they muſt be inforced to beg their bread from door to door, whereupon he came <hi>(ſaith Helmont)</hi> and deſired of me ſomething for the preſervation of his Life; I then (being a young man) pittyed his
+<pb n="2" facs="tcp:55253:4"/>ſad condition, and thus thought with my ſelf, the fume of burning <hi>Sulphur,</hi> is by experience found powerfully effectual to preſerve <hi>Wines</hi> from cor<g ref="char:EOLhyphen"/>ruption; Then I collecting my thoughts, con<g ref="char:EOLhyphen"/>cluded that the <hi>acid</hi> Liquor or Oyl, which is made of <hi>Sulphur Vive,</hi> ſet on fire, doth of ne<g ref="char:EOLhyphen"/>ceſſity containe in it ſelf this fume, yea, and the whole odour of the <hi>Sulphur</hi> in aſ much as it is indeed nothing elſe but the very <hi>Sulphurous</hi> fume imbibed or drunk up in its <hi>mercurial Salt,</hi> and ſo becomes a condenſed Liquor. Then I thought with my ſelf, our blood being (to us) no other then as it were the <hi>Wine of our Life,</hi> that being preſerved, if it prolong not the life, at leaſt, it will keep it ſound from thoſe many Diſeaſes which proceed originally from corruption, by which means the life being ſound and free from diſeaſes, and defended from paines and grief, might be in ſome ſort ſpun out to a further length then other<g ref="char:EOLhyphen"/>wiſe; upon which meditated reſolution, I gave him a Viol glaſs with a ſmall quantity of this <hi>Oyl,</hi> diſtilled from <hi>Sulphur Vive</hi> burning, and taught him (moreover) how to make it as he ſhould af<g ref="char:EOLhyphen"/>terward need it; I adviſed him of this Liquor, he ſhould take two drops before each Meale in a ſmall draught of beer, and not ordinarily to ex<g ref="char:EOLhyphen"/>ceed that Doſe, nor to intermit the uſe of it, taking for granted that two drops of that Oyl contained a large quantity of the fume of <hi>Sulphur.</hi> The man took my advice, and at this day in the
+<pb n="3" facs="tcp:55253:4"/>year 1641. he is luſty and in good health, walks the ſtreets at <hi>Bruſſels</hi> without complaint, and is likely longer to live; and that which is moſt re<g ref="char:EOLhyphen"/>markable, in this whole ſpace of forty one years he was not ſo much as ill, ſo as to keep his bed, yea, although (when of a great age) in the depth; of Winter, he broke his Legg near to his ancle<g ref="char:EOLhyphen"/>bone, by a fall upon the Ice, yet with the uſe of this Oyl he recovered, without the leaſt <hi>Symptome</hi> of a Fever; and although in his old age, Poverty had reduced him to great ſtraits and hardſhip, and made him feel much want of things neceſſary for the comfort and convenien<g ref="char:EOLhyphen"/>cy of life; yet he lives healthy and ſound, though ſpare and lean.</p>
+            <p>The old mans name is <hi>Iohn Maſs,</hi> who wait<g ref="char:EOLhyphen"/>ed upon <hi>Rithovius,</hi> Biſhop of <hi>Ypre</hi> in his Cham<g ref="char:EOLhyphen"/>ber, when the Earls of <hi>Thorne</hi> and <hi>Egmont</hi> were beheaded by the Duke of <hi>Alva,</hi> and he was then twenty five years of age; ſo that now he is com<g ref="char:EOLhyphen"/>pleat 99 years of age, healthy, and luſty, and ſtill continues the uſe of that Liquor daily.</p>
+            <p>Thus farr <hi>Helmont,</hi> which relation, as it is moſt remarkable, ſo it gives the <hi>Philoſophical</hi> reaſon of his Advice, on which it was grounded: And elſewhere the ſame Authour relates, how by this Liquor he cured many dangerous deplorable Fevers, which by other Phyſitians had been given over for deſperate.</p>
+            <p>And in other places he commends it as a peer<g ref="char:EOLhyphen"/>leſs
+<pb n="4" facs="tcp:55253:5"/>remedy, to aſſwage the inſatiable thirſt which accompanies moſt Fevers.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſo which relation and teſtimony, of this moſt learned <hi>Phyſician,</hi> and excelling <hi>Philoſo<g ref="char:EOLhyphen"/>pher,</hi> I ſhall add my own experience.</p>
+            <p>I find it a ſure Preſervative againſt corruption, not onely in living creatures, but even in dead <hi>Fleſt, Beer, Wine, Ale,</hi> &amp;c. a recoverer of <hi>dying Beer,</hi> and <hi>Wines</hi> that are decayed, a cure for Beer when ſick and ropeing; fleſh by this means may be preſerved ſo ncorruptible, as no imbalming in the world can go beyond it, for the keeping of a dead Carkaſe, nor Salting, come near its effi<g ref="char:EOLhyphen"/>cacy, as to the conſerving Meat, or Fowles, or Fiſh, which by this means are not onely kept from corruption, but made a <hi>mumial</hi> Balſom, which is it ſelf a Preſervative from curruption, of ſuch as ſhall eat thereof; which being a curi<g ref="char:EOLhyphen"/>ous rarity, and too coſtly for to be made a vulgar experiment, I ſhall paſs it over, and come to thoſe uſes which are moſt Beneficial and Deſire<g ref="char:EOLhyphen"/>able.</p>
+            <p>It is an excellent cleanſer of the <hi>Teeth,</hi> be<g ref="char:EOLhyphen"/>ing ſcoured with it, they will become as white as the pureſt <hi>Ivory,</hi> and the mouth being waſh<g ref="char:EOLhyphen"/>ed with this Oyl, dropped in water or white Wine, ſo as to make it onely of the ſharpneſs of Vineger; it prevents the growing of that yel<g ref="char:EOLhyphen"/>low ſcale, which uſually adheres to the Teeth, and is the fore-runner of their putrifaction; it
+<pb n="5" facs="tcp:55253:5"/>prevents their rottenneſs for future, and ſtops it (being begun) from going further; takes away the pain of the Teeth, diverts Rhumas, and is a lure help for the ſtrongeſt ſavour of the <hi>Breath,</hi> making it very ſweet.</p>
+            <p>In a word, There is not a more deſirable thing can be found, for ſuch who would have clean or found Teeth, or ſweet breath, or to be free from <hi>Rheums;</hi> for which uſe, let the water be made, by dropping this Oyl into it, as ſharp as vineger, as I ſaid be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>Againſt a tickling <hi>Cough</hi> and <hi>Hoarſneſs,</hi> it is an excellent Remedy; not onely taken two or three drops twice or thrice a day in<g ref="char:EOLhyphen"/>wardly, in the uſual drink one uſeth before each meal, but alſo by gargling the Throat with it; and (ſo uſed) it is excellent againſt ſwelled <hi>Throats-Squinances, Wenns, Swellings</hi> or <hi>Knobs</hi> like <hi>Kernels</hi> in the fleſh, all infla<g ref="char:EOLhyphen"/>mations in the mouth, whether it be the <hi>Vuu<g ref="char:EOLhyphen"/>la</hi> extended by an afflux of humours vulgarly ſaid to be the falling of the Palate, or inflama<g ref="char:EOLhyphen"/>tions of other Muſcles, cauſing the Almonds of the ears to ſwell, which compreſs the Weaſand, and conſequently cauſe extream dolour.</p>
+            <p>It is excellent alſo againſt the Head-ach,
+<pb n="6" facs="tcp:55253:6"/>and to divert Rheums from the eyes, to waſh the Temples therewith; likewiſe to take away <hi>Tetters, Morphew, Itch,</hi> or <hi>Scabs:</hi> This dropped in water is a pleaſant, ſafe, and effectual Remedy.</p>
+            <p>Beſides which Outward application, it is an amicable Balſom to the Internal parts. And Internally taken, preventing corruption, root<g ref="char:EOLhyphen"/>ing out the ſeeds thereof, though never ſo deeply concealed in the body, and by that means it openeth inveterate Obſtructions, eradicating old Pains, and preventing other<g ref="char:EOLhyphen"/>wiſe uſual relapſes into <hi>Stranguretical, Coli<g ref="char:EOLhyphen"/>cal,</hi> or <hi>Arthritical</hi> pains.</p>
+            <p>It is <hi>Abſterſive,</hi> cleanſing all excrementi<g ref="char:EOLhyphen"/>tious ſettlings in the Meſaraick, or Meſente<g ref="char:EOLhyphen"/>rial Veſſels, and ſo cutting off the Original Sourſe, and taking away the cauſe of putri<g ref="char:EOLhyphen"/>factive corruption, which is the productive beginner of very many diſeaſes.</p>
+            <p>On this account it lengthens the life, and frees the body from many pains and evils, to which otherwiſe it would be ſub<g ref="char:EOLhyphen"/>ject.</p>
+            <p>It is a pleaſant Remedy, having onely a little ſharpneſs, which to the Palate is moſt grateful, and yet this accidity is <hi>contra</hi>-di<g ref="char:EOLhyphen"/>ſtinct
+<pb n="7" facs="tcp:55253:6"/>from that accidity, that is the fore-run<g ref="char:EOLhyphen"/>ner of putrefaction, which it kills and de<g ref="char:EOLhyphen"/>ſtroys, as the accidity of the ſpirit of Vitriol, is deſtroyed by the fixed Acrimony of its own <hi>Caput mortu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m;</hi> or that of Vinegar, by the touch of <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruſſe</hi> or <hi>Minium.</hi>
+            </p>
+            <p>Preternatural heat and thirſt in Fevers, is no way allayed ſo ſpeedily and eaſily, as by this; nor is there any thing that for a conſtant continuance may be more ſafely and profita<g ref="char:EOLhyphen"/>bly taken. Spirit of Salt (ſuch as the Noble <hi>Helmont</hi> ſpeaks of) alone may be joyned with this, for its ſafety, and continual uſe with profit; eſpecially in the Stone, in the Bladder, and gravel in the Kidneys, and other diſtem<g ref="char:EOLhyphen"/>pers in the Reines, as heat and ſharpneſs of Urin.</p>
+            <p>Likewiſe it is a moſt effectual preſervative againſt all Corruption, and indeed there is no remedy more prevalent then this againſt con<g ref="char:EOLhyphen"/>tagious Fevers, ſmall <hi>Pox,</hi> and <hi>Meaſels:</hi> It is alſo a moſt ſoveraign Antidote and Remedy againſt the <hi>Plague</hi> or <hi>Peſtilence,</hi> being a ſingu<g ref="char:EOLhyphen"/>lar preſerver of the body againſt all contagion and putrifaction whatſoever.</p>
+            <p>Alſo it wonderfully prevaileth againſt all diſeaſes coming of putrifaction, cold or wind; againſt all Feavers and Agues, the Quotidian,
+<pb n="8" facs="tcp:55253:7"/>Tertian, and Quartin; as alſo the foul diſeaſe, Wounds, and Ulcers; the ſeveral defect; and infirmities of the Brain, Mouth, Teeth, Liver, Stomack, Spleen, Matrix, Bladder, Entralls, and Arteries. And outwardly applyed, it helpeth Fiſtulaes, Ulcers of the mouth, and Gangrenes.</p>
+            <p>Now as this is ſo Noble a Medecine, ſo there is none in the world more baſely adul<g ref="char:EOLhyphen"/>terated and counterfeited; therefore it be<g ref="char:EOLhyphen"/>hooveth all perſons that ſhall make uſe there<g ref="char:EOLhyphen"/>of, to be well ſatisfied firſt of the ingenuity, honeſty, and ability of the Artiſt, before they preſume to make uſe of it.</p>
+            <p>Now as to its goodneſs, and great care ta<g ref="char:EOLhyphen"/>ken in its preparation, I could have had ma<g ref="char:EOLhyphen"/>ny both honeſt and learned Atteſtators, who have had the experience of it upon ſeveral of their Patients, and ſtill daily uſe it in their pra<g ref="char:EOLhyphen"/>ctice with good ſucceſs.</p>
+            <p>Thoſe now, who know not by ſad expe<g ref="char:EOLhyphen"/>rience the difficulty of gaining credit to truths of this kind, might well ſuppoſe enough had already been expreſſed to perſwade at leaſt a Tryal of ſo noble a medicine, if not a fair and clear acceptation, but ſo great a prejudice againſt new diſcoveries, remaines upon the minds of the moſt by abuſe of Deceivers; that what hath been ſaid in its behalf will
+<pb n="9" facs="tcp:55253:7"/>hardly prevail for ſuch a reliance upon its uſe, as its vertues really deſerves; therefore to ſilence all oppoſers, and to obtaine its chearful embracement; take here the ſure teſtimony of ſome inſtances of its happy Victories and ſucceſſes in divers remarkable caſes and con<g ref="char:EOLhyphen"/>flicts; wherein though the Operator of it hath much to ſay for daily benefits to him<g ref="char:EOLhyphen"/>ſelf and relations (too numerous to recount) yet knowing, who ever duly weighs the other inſtances, will eaſily conclude, it muſt needs have been moſt ſerviceable, where it hath been moſt imployed: I refer you wholly to its o<g ref="char:EOLhyphen"/>ther performances and cures elſewhere.</p>
+            <p>The firſt of which ſhall be of a Gentlewo<g ref="char:EOLhyphen"/>man about twenty years of age, that by much weakneſs, ſickneſs, and an empty dry Cough, haveing withall paſt through the whole courſe of Phyſick, and even hopeleſs of recovery, being recommended to the uſe of this Oyle (by one who had received much good by it) uſing of it about three moneths continually day by day according to former directions, recovered beyond expectation, and ſtill is reſolved to continue the uſe of it.</p>
+            <p>The ſecond ſhall be of an Ancient, weak woman, fallen into a tedious fit of ſickneſs, Feveriſh, and ſo fluft in her breaſt, as ſhe was
+<pb n="10" facs="tcp:55253:8"/>even breathleſs, much means of Phyſick by councel of Phyſicians ſhe had uſed, but left helpleſs of all.</p>
+            <p>She hearing of my Oyl, ſent for an ounce, I ſent it with directions how to uſe it, and a while after that, another; and ſo after that another, by the uſe whereof, continually a little and a little, ſhe became hearty and well againe; but near upon a Twelve-moneth after fell ſick againe, and then timely betaking her ſelf to the ſame Remedy, ſhe with ſomewhat a leſs quantity recovered: and againe, about a year after that falling ill againe, by the very ſame meanes againe recovered and continued well for about twelve or fourteen moneths, as well as her years conſidered could be expected.</p>
+            <p n="3">3. The third I ſhall inſtance, is of a young man which for a long time had an Ague and a Fevour, and had uſed all the means that he could poſſible, and all in vaine, in ſo much that he was paſt hope of recovery, but at laſt was adivſed by a Phyſician to uſe the Oyle of <hi>Sulphur</hi> according to the direction that is in this book, the man took his adviſe, and in a ſhort time his Ague and Fever left him, and he re<g ref="char:EOLhyphen"/>ſtored to his former ſtrength.</p>
+            <p n="4">4. The fourth experiment is of a man of middle age, who had been along time under
+<pb n="11" facs="tcp:55253:8"/>an extream ſickneſs, with a great pain in his ſtomack and bowels, and had uſed much means with advice in Phyſick, but ſtill became worſe and worſe; a friend of his who had made uſe of my Oyle, recommended its uſe unto him, as what was likely to do him good; ſo he ſent for two ounces of my Oyle, with directions, how to uſe it, which I readily ſent him, and before it was half taken, he ſent me word he had received ſo much benefit by it, that he would never be without it.</p>
+            <p n="5">5. A fifth inſtance, is, of a Woman about the age of thirty, which was very often trou<g ref="char:EOLhyphen"/>bled with pain in her Teeth, by reaſon they were ſo much waſted and corrupted, and her gums ulcerated: I adviſed her to make uſe of my <hi>Oyle of Sulphur,</hi> and gave her directions how to uſe it, and in a ſhort time it ſcaled her teeth, and made them as white as Ivory, and alſo perfectly cured the Ulcers in her mouth, which gave great content to the party.</p>
+            <p n="6">6. A ſixth proof hereof, is, of a Girl about ten years old, in an extream Fever, with thirſt, ſhortneſs of breath, Cough, with tough flegm, and vehement paines in her ſide, yet in this ſad condition found no releif, like to what ſhe had by continual uſe of my <hi>Oyle of Sulphur</hi> day and night, for it cooled and quenched her
+<pb n="12" facs="tcp:55253:9"/>thirſt, ſtayed her Cough, ripened her flegm, re<g ref="char:EOLhyphen"/>moved her paines, and ſhe recovered without bleeding, which every one that ſaw her thought impoſſible.</p>
+            <p n="7">7. One for many years troubled with a ve<g ref="char:EOLhyphen"/>ry <hi>ſtinking breath,</hi> and continual <hi>Head-ach,</hi> by reaſon of Vapours aſcending from putrified <hi>Lungs;</hi> by often uſing this Oyle in the di<g ref="char:EOLhyphen"/>ſtilled water or decoction of <hi>Egrimony,</hi> and in common drink, in a ſhort time recovered to perfect health, and all ill ſcents of the breath totally ſeaſed.</p>
+            <p n="8">8. A man aged 60 and odd years, who for a long time had laboured under the great paine of the Tyſick, and difficulty of breathing, ſo that he could not lye down, but always ſlept upright in a Chaire for fear of ſtopping his breath; he was directed to me, and by a few dayes uſe thereof, it ſo opened the paſſages, that he breathed perfectly, and the Tyſick or or wheeſing troubled him no more.</p>
+            <p n="9">9. A Gentlewoman in the Country being very much troubled with Riſing of the Lights, ſo that every night ſhe feared dying in her ſleep, was by providence of a friend, who had good teſtimony of my oyle, directed to ſend to me for ſome of it; I ſent her two ounces which
+<pb n="13" facs="tcp:55253:9"/>ſhe daily uſing, according to my directions, ſoon became very well to her great comfort.</p>
+            <p n="10">10. In the <hi>Pleuriſie,</hi> and all pains and <hi>Sti<g ref="char:EOLhyphen"/>ches</hi> in the <hi>Sides,</hi> it hath wonderful effects; one violently taken with pain in the ſide, rea<g ref="char:EOLhyphen"/>dy to ſtop his breath, ſent to me for an ounce, which I immediately furniſhed him with, and following the directions how to uſe it, was perfectly healed in 24 hours, when nothing but death was expected.</p>
+            <p n="11">11. A Child of three years old, ſuddenly ſurprized with <hi>Convulſion-fits,</hi> in thrice taking hereof was well, and the fits came no more.</p>
+            <p n="12">12. A Gentlewoman violently oppreſſed with the <hi>Pangs</hi> of the <hi>aſcention</hi> of the <hi>Matrix,</hi> uſing this Oyl in <hi>Aqua partheine,</hi> was in a few times taking perfectly cured.</p>
+            <p n="13">13. One grievouſly vexed with <hi>Belchings</hi> and <hi>loathing</hi> of meat, having a depraved and loſt Appetite by a foul ſtomack, was by taking hereof, in a few days brought to a good appe<g ref="char:EOLhyphen"/>tite; all belchings and riſings of the Stomack ceaſed, without vomiting or purging.</p>
+            <p n="14">14. A man having by cold got a grievous
+<pb n="14" facs="tcp:55253:10"/>
+               <hi>Horſeneſs, Cough,</hi> and <hi>Soreneſt</hi> of his throat and ſtomack, ſo that he could ſwallow no meat; by taking hereof in his drink and <hi>broth,</hi> in ſix days was cured.</p>
+            <p n="15">15. One much troubled with griping in the guts, being that diſtemper vulgarly called the <hi>Plague</hi> in the guts and having his bowels grievouſly excoriated, ſent to me for ſome of my Oyl of Sulphur, after all other means were tryed in vain; which I directed him to take, two or three drops at a time in Plantane-wa<g ref="char:EOLhyphen"/>ter, and gave him preſent eaſe.</p>
+            <p n="16">16. One who was much troubled with <hi>ſcalding Urin,</hi> and pisſing by drops, with much pain and anguiſh; by taking hereof according to my directions found eaſe in one night, and by a little uſe, a perfect cure.</p>
+            <p n="17">17. A woman grievouſly labouring with ſhortneſs of breath, filthy ſcents ariſing to her mouth, from her lower parts inwardly, often aſcertions and grievous pangs in her Matrix; after much miſery, and waſting both of body and Purſe upon Phyſitians, Providence direct<g ref="char:EOLhyphen"/>ed her to me, and by uſe hereof, according as I preſcribed, found a remedy beyond hopes or expectation.</p>
+            <pb n="15" facs="tcp:55253:10"/>
+            <p n="18">18. A young man, after ſome Venerial Combates, having ſome <hi>Puſtulaes</hi> and <hi>Pruri<g ref="char:EOLhyphen"/>tus</hi> about his <hi>Penis, ſcrotum,</hi> and between the <hi>Glans</hi> and <hi>Preputium,</hi> ſo that he could not reſt<g ref="char:punc">▪</g> nor ſit ſtill ini quiet; by uſing this in a proper vehicle I gave him, in a few hours gave eaſe, and put a ſpeedy period to his diſtem<g ref="char:EOLhyphen"/>per, freeing him from the worſt of fears, the amputation of that moſt affected member.</p>
+            <p n="19">19. One uſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to make bloody water, eſpe<g ref="char:EOLhyphen"/>cially if he did but a little walk or exerciſe himſelf and not without ſome dolour; in a few weeks uſe hereof, was quite eaſed, and made urine clear and freely.</p>
+            <p n="20">20. The Author hath alſo a moſt excellent ſweating Medicine, which doth powerfully drive forth all peſtilential infection, and by this means preſorves the heart and brain, and alſo the natural ſpirits from the malignity of the PLAGUE. It moſt pleaſantly frees the bodys of men, women, and children from all impu<g ref="char:EOLhyphen"/>rities of the blood, caſting forth all manner of Fevers. Not one that hath taken this Medi<g ref="char:EOLhyphen"/>cine in time, bua God hath bleſſed it with the ſucceſs of cure, or in ſome where nature hath been weak, and not able to throw out (her enemy) the poyſonous matter, with two or three (at moſt) times taking of this Medi<g ref="char:EOLhyphen"/>cine,
+<pb n="16" facs="tcp:55253:11"/>it hath both forced out, and broken the ſwolling in the Groynes, and (other emun<g ref="char:EOLhyphen"/>ctuaries) the Arm-holes being but continued to five or ſix takings, it infallibly clears the blood, wherein all diſeaſes take their begin<g ref="char:EOLhyphen"/>ning; ſo upon this account I can do no leſs then wiſh all that regard their health, to the uſe of this moſt admirable and unequallized Medicine in theſe contagious times.</p>
+            <p n="21">21. Many more examples of rare and won<g ref="char:EOLhyphen"/>derful Cures herewith by me performed I could aſſert, but I hope <hi>Semel dictum ſapien<g ref="char:EOLhyphen"/>ti ſat eſt.</hi> I'll name but one more, and con<g ref="char:EOLhyphen"/>clude; which is of a Woman ſo grievouſly troubled with worms, both great and ſmall, that ſhe endured grievous pains in her belly, and continually voided very ſmall worms in her Excrement: by a little uſe hereof, was well to her ſingular comfort.</p>
+            <p>To prevent any Sophiſtication, or deceit in any of my Medicines by counterfeits, they ſhall be always ſealed up with this Coat of Arms, as is in the Tittle Page.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="17" facs="tcp:55253:11"/>
+            <head>Poſtſcript.</head>
+            <p>THoſe who deſire this ſo pleaſant, ſo effi<g ref="char:EOLhyphen"/>catious and profitable a remedy, let the Reader be informed, That at <hi>Tho. Moulſon</hi>'s houſe in <hi>Tenter-Alley</hi> in little <hi>Moor-fields,</hi> at the ſign of the <hi>Kolden-Key,</hi> this Oyl is to be had, truly and faithfully made without any ad<g ref="char:EOLhyphen"/>dition; made onely of the Sulphur it ſelf.</p>
+            <p>And likewiſe you may have at the ſame place, <hi>Spirit of Salt,</hi> prepared after the beſt way, or any <hi>Chymical</hi> Salts, Oyles, and Spi<g ref="char:EOLhyphen"/>rits.</p>
+            <p>Beſides which Oyl or Spirit of <hi>Sulphur,</hi> ſe<g ref="char:EOLhyphen"/>veral other admirable and effectual Medicinal ſecrets, not onely for Preſervation againſt all contagious and infectious diſeaſes, but appro<g ref="char:EOLhyphen"/>ved for the certain, ſafe, and ſpeedy cure of moſt, if not all diſeaſes; as hath been proved by many hundred Patients (adjudged rather incurable, or deſperately dangerous by other Phyſitions,) are here to be had, being the more then ordinary Secrets and Preparations, of THOMAS MOULSON, Operator in Chymiſtry, and Licenſed Phyſician.</p>
+            <pb n="18" facs="tcp:55253:12"/>
+            <p>From my Houſe in <hi>Tenter-Alley,</hi> at the ſigne of the GOLDEN KEY, in Little MOOR-FIELDS, <hi>July</hi> 20th. 1665.</p>
+            <closer>
+               <signed>THO. MOULSON.</signed>
+            </closer>
+            <closer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
